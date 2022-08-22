@@ -10,3 +10,7 @@ then once all dependencies are installed you can use the command for ionic
 make sure you are in the location where cloned and use the command ionic serve to have this display in the browser
 
 There is also ios and Android cordova plugins with the google maps API which can be used using Xcode or android studio setups.
+
+Android and IOS will ask for user permissions to use current location of the user 
+
+User can set location as always available or only while using the app
