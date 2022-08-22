@@ -1,0 +1,18 @@
+Presentation of Final App : https://www.screencast.com/t/8Lu2cLMZq4yH
+
+# final-project-domludejesus
+final-project-domludejesus created by GitHub Classroom
+
+This will be an Ionic App using Angular/TypeScript/SCSS and Cordova plugins
+
+To run this app first clone this repository and do the command npm start
+
+then once all dependencies are installed you can use the command for ionic
+
+make sure you are in the location where cloned and use the command ionic serve to have this display in the browser
+
+There is also ios and Android cordova plugins with the google maps API which can be used using Xcode or android studio setups.
+
+Android and IOS will ask for user permissions to use current location of the user 
+
+User can set location as always available or only while using the app
